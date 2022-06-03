@@ -42,7 +42,7 @@ export const data = [
     },
     {
         categoria: '1',
-        pregunta: 'Quien escribio 100 anios de soledad?',
+        pregunta: 'Quien escribio 100 años de soledad?',
         respuestaTrue: 'Gabriel Garcia',
         respuestaFalse1: 'Mario Mendoza',
         respuestaFalse2: 'Guillermo Arriaga',
@@ -98,7 +98,7 @@ export const data = [
     },
     {
         categoria: '1',
-        pregunta: 'Cual es de estos paises no pertenece a America?',
+        pregunta: 'Cual es de estos paises no pertenece a America Sur?',
         respuestaTrue: 'Panama',
         respuestaFalse1: 'Colombia',
         respuestaFalse2: 'Bolivia',
@@ -122,10 +122,10 @@ export const data = [
     },
     {
         categoria: '1',
-        pregunta: 'Quien fue el campeon de la premir leguea?',
+        pregunta: 'Quien fue el campeon de la premier leguea?',
         respuestaTrue: 'Manchester City',
         respuestaFalse1: 'Liverpool',
-        respuestaFalse2: 'Chelseas',
+        respuestaFalse2: 'Chelsea',
         respuestaFalse3: 'America de cali',
     },
     {
