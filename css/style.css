@@ -1,0 +1,52 @@
+.bodyStyle{
+    background-color: #3d4b6e;
+}
+
+
+.btnPropia {
+    width: 100%;
+    
+}
+
+.btnIndex {
+    width: 60%;
+    
+}
+
+.container {
+    margin-top: 100px;
+   
+}
+
+.divRespuesta {
+    padding-bottom: 15px;
+}
+
+.divCenter {
+    text-align: center;
+    color: #fff;
+}
+
+.puntuacion { 
+    font-size: x-large;
+    color: #fff;
+}
+
+.inputIdex {
+   margin-bottom: 30px;
+   
+}
+
+h1, h6 {
+    text-align: center;
+    
+}
+
+.btnReiniciar {
+    margin-bottom: 5px;
+}
+.btnPuntaje {
+    width: 60%;
+}
+
+
